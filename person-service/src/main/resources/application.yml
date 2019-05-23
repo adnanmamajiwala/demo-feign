@@ -1,10 +1,6 @@
 server:
   port: 9081
 
-spring:
-  application:
-    name: person-service
-
 eureka:
   client:
     service-url:
