@@ -1,3 +1,0 @@
-rootProject.name = 'employee-app'
-
-include 'employee-web', 'employee-ui'
